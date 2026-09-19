@@ -96,9 +96,9 @@ Productos en Riesgo := CALCULATE(COUNTROWS(muestra), FILTER(muestra, [riesgo de 
 2. **Exceso de inventario:** varias bodegas (especialmente *Miscellaneous Storage* y *Subassembly*) acumulan stock alto en productos con cero ventas recientes.
 3. **Reabastecimiento:** el tiempo de espera varía más por producto que se agrupa en pocas órdenes de compra grandes; al analizar por proveedor se revela mejor la variación real en tiempos de entrega.
 
-![Dashboard de riesgo de stock](dashboard 1.png)
-![Exceso de inventario por ubicación](dashboard 2.png)
-![Tiempo de reabastecimiento](Dashboard 3.png)
+![Dashboard de riesgo de stock](dashboard-1.png)
+![Exceso de inventario por ubicación](dashboard-2.png)
+![Tiempo de reabastecimiento](Dashboard-3.png)
 
 ## Autor
 
